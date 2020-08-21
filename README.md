@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 --> 🔭 I’m currently working on AI & Machine Learning
 - 🌱 I’m currently learning C++
 
+ Hello, folks! <img src="https://raw.githubusercontent.com/GhostZen13/GhostZen13/master/My_badges.png" width="30px">
 
-<img src="My_badges.png">
