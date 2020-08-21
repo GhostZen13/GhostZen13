@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C++
 
 
-<img src="My_badges.png", width=800>
+<img src="My_badges.png">
