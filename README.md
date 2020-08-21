@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C++
 
 
-![](My_badges.png)
+<img src="My_badges.png", width=800>
