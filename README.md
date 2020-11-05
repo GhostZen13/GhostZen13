@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C++
 
  <img src="https://raw.githubusercontent.com/GhostZen13/GhostZen13/master/My_badges.png" >
- <style="background-color:powderblue;">
+ <body style="background-color:powderblue;">
+ </body>
 
